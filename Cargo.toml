@@ -1,0 +1,8 @@
+[package]
+name = "image_machine"
+version = "0.1.0"
+authors = ["Yasushi Sakai <ysshski@gmail.com>"]
+
+[dependencies]
+image = "*"
+csv = "1"
